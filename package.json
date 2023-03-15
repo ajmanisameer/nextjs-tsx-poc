@@ -22,6 +22,8 @@
     "postbuild": "next-sitemap"
   },
   "dependencies": {
+    "@auth0/nextjs-auth0": "^2.2.3",
+    "dotenv": "^16.0.3",
     "next": "^13.2.4",
     "next-seo": "^5.15.0",
     "next-sitemap": "^4.0.5",
